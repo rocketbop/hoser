@@ -2,7 +2,7 @@
 
 Toy app to show how you can connect to Twitter's Stream Api and produce Kakfa events with the stream.
 
-https://user-images.githubusercontent.com/3874566/114197687-de3f7200-9952-11eb-86d2-dd73640f60cc.mov
+![Screen Recording 2021-04-09 at 16 43 09](https://user-images.githubusercontent.com/3874566/114198296-70e01100-9953-11eb-9956-c8d5b8891105.gif)
 
 # To run
 
